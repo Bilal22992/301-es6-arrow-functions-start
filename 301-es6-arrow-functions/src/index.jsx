@@ -24,7 +24,7 @@ const newNumberFi = numbers.find(num => num > 10
 )
 
 ////FindIndex - find the index of the first item that matches.
-const newNumberI = numbers.findIndex(num => num > 10
+const newNumberI = numbers.findIndex(num => num >= 10
 )
 
 console.log(newNumbers);
